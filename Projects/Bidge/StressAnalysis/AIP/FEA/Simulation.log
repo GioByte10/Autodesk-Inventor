@@ -1,0 +1,52 @@
+﻿Study Static Analysis:2 started: 11/13/2019, 9:44:11 PM
+Number of configurations: 1
+Default mesh: 6866 elements, 10407 nodes
+Solution time 0.3s
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 9:44:16 PM
+Total time 0:00:05
+
+Study Static Analysis:2 started: 11/13/2019, 10:00:11 PM
+Number of configurations: 1
+Default mesh: 210 elements, 435 nodes
+Solution time 0.8s
+Convergence rate: 4.08%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 10:00:13 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 11/13/2019, 10:07:25 PM
+Number of configurations: 1
+Default mesh: 168 elements, 407 nodes
+Solution time 0.3s
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 10:07:27 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 11/13/2019, 10:08:12 PM
+Number of configurations: 1
+Default mesh: 168 elements, 407 nodes
+Solution time 1s
+Convergence rate: 24.6%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 10:08:14 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 11/13/2019, 10:10:53 PM
+Number of configurations: 1
+Default mesh: 169 elements, 422 nodes
+Solution time 1s
+Convergence rate: 21.7%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 10:10:55 PM
+Total time 0:00:02
+
+Study Static Analysis:2 started: 11/13/2019, 10:20:19 PM
+Number of configurations: 1
+Default mesh: 129 elements, 296 nodes
+Solution time 0.7s
+Convergence rate: 12.2%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/13/2019, 10:20:22 PM
+Total time 0:00:03
+
